@@ -1,5 +1,5 @@
 {
-  "name": "manifold-safe-app",
+  "name": "@manifoldfinance/safe-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
